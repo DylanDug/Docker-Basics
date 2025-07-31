@@ -4,6 +4,8 @@ Welcome to this Docker tutorial!
 
 In this guide, we'll walk through the installation process of Docker Engine and understand what Docker is, how it works, and why it's such a powerful tool in modern development.
 
+![Docker Logo](images/docker-logo.png)
+
 ---
 
 ## 📚 Table of Contents
