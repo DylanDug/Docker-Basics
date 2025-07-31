@@ -64,7 +64,7 @@ To install Docker, visit the official site:
 👉 [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/)
 
 Choose the version suited for your system (Windows, Mac, or Linux).
-📸 *(Add screenshot: ******`downloaddocker.png`****** here)*
+![Docker Download](images/download-docker.png)
 
 ---
 
@@ -76,7 +76,7 @@ After installation, open your terminal (e.g., Mac Terminal, Windows PowerShell),
 docker --version
 ```
 
-📸 *(Add screenshot: Terminal with version output)*
+![Docker Version](images/docker-version.png)
 
 ✅ If you see a version message like:
 
@@ -132,7 +132,7 @@ Once enabled, run:
 kubectl get nodes
 ```
 
-📸 *(Add screenshot: Terminal with kubectl output)*
+![kubernetes nodes](images/get-nodes.png)
 
 ✅ If you get a node list, Kubernetes is running.
 ❌ If not, try toggling it off and on, or restarting your machine.
